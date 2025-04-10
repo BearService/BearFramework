@@ -1,5 +1,5 @@
 # BearFramework
-BearFramework는 다양한 프레임워크들을 사용해보고, Bukkit & Paper & Spigot 플랫폼에서 사용할 수 있게 제작된 프레임워크입니다.<br>
+BearFramework는 Bukkit & Paper & Spigot 플랫폼에서 사용할 수 있게 제작된 프레임워크입니다.<br>
 마인크래프트 플러그인을 개발할 때, 필요한 코드들을 쉽고, 간편하고, 빠르게 사용할 수 있게 제작되었습니다.
 
 ## Support Versions
